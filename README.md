@@ -59,4 +59,4 @@ Suitable for:
 ---
 ## 📄 Reports & Results
 📊  <a href="https://github.com/NhutVuong/SQL-Insights-Customer-Sales/blob/main/SQL_Query/sales_analytics.sql">Sale Analysis</a>
-🔍 View SQL Queries: SQL_Query Folder
+🔍 <a href="https://github.com/NhutVuong/SQL-Insights-Customer-Sales/blob/main/SQL_Query/report_customer_view.sql">Report Customer View</a>
