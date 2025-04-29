@@ -58,15 +58,3 @@ Suitable for:
 
 ---
 
-## 📌 Author
-
-**Your Name**  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your@email.com)
-
----
-
-## ✅ How to Use
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/datawarehouse-analytics-report.git
