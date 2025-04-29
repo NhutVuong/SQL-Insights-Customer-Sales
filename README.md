@@ -4,7 +4,6 @@
 ├── 📂 <a href="https://github.com/NhutVuong/SQL-Insights-Customer-Sales/tree/main/dataset">Dataset</a>         
 ├── 📂 <a href="https://github.com/NhutVuong/SQL-Insights-Customer-Sales/blob/main/database.sql">Database</a>           
 
-
 ---
 
 ## 🔍 Key Features & Analyses
@@ -40,7 +39,6 @@
   - `fact_sales`
   - `dim_customers`
   - `dim_products`
-- (Optional) Data visualization via Power BI or Tableau (not included in this repo)
 
 ---
 
