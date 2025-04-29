@@ -1,1 +1,1 @@
-# sql-insights-customer-sales
+# 🔍📦 SQL Insights: Customer & Sales Analytics
