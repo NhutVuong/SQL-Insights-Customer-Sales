@@ -58,5 +58,5 @@ Suitable for:
 
 ---
 ## 📄 Reports & Results
-📊  <a href="https://github.com/NhutVuong/SQL-Insights-Customer-Sales/blob/main/SQL_Query/sales_analytics.sql">Sale Analysis</a>
-🔍 <a href="https://github.com/NhutVuong/SQL-Insights-Customer-Sales/blob/main/SQL_Query/report_customer_view.sql">Report Customer View</a>
+* 📊  <a href="https://github.com/NhutVuong/SQL-Insights-Customer-Sales/blob/main/SQL_Query/sales_analytics.sql">Sale Analysis</a>
+* 🔍 <a href="https://github.com/NhutVuong/SQL-Insights-Customer-Sales/blob/main/SQL_Query/report_customer_view.sql">Report Customer View</a>
